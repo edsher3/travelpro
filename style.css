@@ -1,27 +1,27 @@
 @font-face {
     font-family: 'Raleway-Bold' ;
-    src: url('../fonts/Raleway-Bold.woff2') format('woff2');
+    src: url('./fonts/Raleway-Bold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Raleway-Regular' ;
-    src: url('../fonts/Raleway-Regular.woff2') format('woff2');
+    src: url('./fonts/Raleway-Regular.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'FiraSans-Bold' ;
-    src: url('../fonts/FiraSans-Bold.woff2') format('woff2');
+    src: url('./fonts/FiraSans-Bold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'FiraSans-Medium' ;
-    src: url('../fonts/FiraSans-Medium.woff2') format('woff2');
+    src: url('./fonts/FiraSans-Medium.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -107,7 +107,7 @@ body{
 .about__top{
 text-align: center;
 color: #ffffff;
-background-image: url(../images/about-bg.png);
+background-image: url(./images/about-bg.png);
 background-repeat: no-repeat;
 background-position: center center;
 text-transform: uppercase;
